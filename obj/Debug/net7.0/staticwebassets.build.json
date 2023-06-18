@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6ZDLKEC5dIaGGR3J1X/X6YonOgXox3QiUYL6PE4IHCg=",
+  "Source": "pokedex",
+  "BasePath": "_content/pokedex",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
